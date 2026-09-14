@@ -13,3 +13,4 @@ Las propone el profesor a lo largo del curso. **La más reciente, arriba.** Diez
 **Por qué me chocó a mí:** aquí es donde escribes tú.
 **Qué tiene que ver con clase:** con qué actividad o tema lo relacionas.
 ```
+[← Volver al inicio](README.md)
