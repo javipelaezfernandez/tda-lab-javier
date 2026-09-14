@@ -8,5 +8,3 @@
 
 ---
 [← Volver al inicio](README.md)
-
-# Primer trimestre
