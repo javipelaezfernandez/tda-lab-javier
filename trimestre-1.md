@@ -2,21 +2,18 @@
 
 # Primer trimestre
 
-## Cómo se añade una entrada
+### 13/10 · Mi equipo por dentro
 
-Copia este bloque, pégalo **debajo de la última entrada** y rellénalo.
-La fecha va delante del nombre, siempre.
-
-```
-### 27/10 · Nombre de la actividad
-
-- **Aplicación:** con qué lo hiciste.
-- **Entregado:** el nombre del archivo que subiste a Teams.
-- **Qué hice:** una línea, para acordarte dentro de seis meses.
+- **Aplicación:** — (destornillador)
+- **Entregado:** U1_A2_Radiografia_.pdf
+- **Qué hice:** abrir la torre del puesto 14 y localizar las piezas una a una.
 
 ---
-```
 
-Tres líneas y ni una más. No copies el enunciado ni repitas lo que ya va en la entrega.
+### 27/10 · La red que no funcionaba
+
+- **Aplicación:** Packet Tracer
+- **Entregado:** U1_A5_Red_Javi.pka
+- **Qué hice:** arreglar una red de cuatro equipos que no se veían entre sí.
 
 ---
