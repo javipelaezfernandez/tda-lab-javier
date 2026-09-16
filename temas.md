@@ -1,13 +1,14 @@
 # Temas del curso
 
-### 14/09 · Mis aficiones
+### 16/09 · Mis aficiones
 
-Llevo jugando al balonmano desde los ocho años, en el equipo
-del pueblo. Lo que más me gusta no es marcar, es el momento
-en que sale una jugada que habíamos entrenado veinte veces
-y por fin sale. Entreno martes y jueves, y los sábados hay
-partido. También llevo dos años tocando la guitarra, aunque
-ahí voy mucho más lento: me sé cuatro canciones y media.
+Una de mis mayores aficiones es el fútbol.
+Me gusta mucho jugar con mis amigos después de clase y entrenar con mi equipo varias veces a la semana.
+Mi posición favorita es de delantero porque me gusta marcar goles y ayudar al equipo.
+También disfruto viendo partidos importantes con mi familia, especialmente cuando juega mi equipo favorito.
+El fútbol me ayuda a mantenerme en forma, trabajar en equipo y, sobre todo, pasarlo bien con mis amigos.
 
-![Un balón de balonmano](capturas/balonmano.jpg)
-[← Volver al inicio](README.md)
+Buscando en GitHub he encontrado [jokecamp](https://github.com/jokecamp/FootballData),
+una web para ver datos de futbol.
+
+![Mi red](capturas/red.png)
