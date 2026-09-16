@@ -19,8 +19,8 @@ Aquí voy dejando lo que hago en Tecnologías Digitales Aplicadas: qué constru�
 
 ## Herramientas que he usado
 
-`[ve añadiendo aquí las que uses: Packet Tracer, Python, Streamlit...]`
+`Github`
 
 ## Trucos que me apunto
 
-- [Cuando descubras algo que no te enseñó nadie, apúntalo aquí.]
+- Cuando descubras algo que no te enseñó nadie, apúntalo aquí.
