@@ -1,5 +1,3 @@
-[← Volver al inicio](README.md)
-
 # Temas del curso
 
 ### 16/09 · Mis aficiones
@@ -14,3 +12,5 @@ Buscando en GitHub he encontrado [jokecamp](https://github.com/jokecamp/Football
 una web para ver datos de futbol.
 
 ![Mi red](capturas/red.png)
+
+[← Volver al inicio](README.md)
