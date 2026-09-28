@@ -14,3 +14,16 @@ una web para ver datos de futbol.
 ![Mi red](capturas/red.png)
 
 [← Volver al inicio](README.md)
+
+---
+
+### 28/09 · Premios Princesa de Asturias: Bóveda Global de Semillas de Svalbard
+
+[La Bóveda Global de Semillas de Svalbard](https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-boveda-global-de-semillas-svalbard/) son tres almacenes inaugurados en 2008 que tienen una extensión de más de mil metros cuadrados,
+está destinado a proteger y almacenar semillas de todos los cultivos destinados a alimentación para preservarlos en caso de perdida o extinción por cualquier motivo.
+Lo premian por su labor social y medioambiental protegiendo la biodiversidad del planeta entero al almacenar semillas de todas las plantas para salvarlas de la extinción.
+Elegí este premio ya que había oído hablar de este almacén enorme en el Artico.
+
+Imagen: La Bóveda Global de Semillas de Svalbard, ![Mi semillas](capturas/semillas.jpg)
+
+---
