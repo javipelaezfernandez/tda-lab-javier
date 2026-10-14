@@ -34,7 +34,6 @@ Fue una matemática inglesa, provenía de una familia adinerada perteneciente a 
 Ella creó el primer algoritmo de la historia y asentó las bases para la programación de ordenadores,
 por eso actualmente es considerada [la pionera de la informática](https://historia.nationalgeographic.com.es/a/ada-lovelace-visionaria-hija-lord-byron_15864) en una época muy temprana de la historia.
 Por eso todos los segundos martes de Octubre se recuerda su azaña.
-[Ada Lovelace en Wikipedia](https://es.wikipedia.org/wiki/Ada_Lovelace)
 
 ![Foto de Ada Lovelace](capturas/Ada_lovelace.png){: width="300"}
 * Imagen: Alfred Edward Chalon, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ada_lovelace.png)*
