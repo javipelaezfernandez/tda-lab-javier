@@ -27,3 +27,16 @@ Elegí este premio ya que había oído hablar de este almacén enorme en el Arti
 Imagen: La Bóveda Global de Semillas de Svalbard, ![Mi semillas](capturas/semillas.jpg)
 
 ---
+
+### 13/10 · Ada Lovelace
+
+Fue una matemática inglesa, provenía de una familia adinerada perteneciente a la aristocracia, su madre también tenia una pasión por las matemáticas que le transmitió a su hija.
+Ella creó el primer algoritmo de la historia y asentó las bases para la programación de ordenadores,
+por eso actualmente es considerada [la pionera de la informática](https://historia.nationalgeographic.com.es/a/ada-lovelace-visionaria-hija-lord-byron_15864) en una época muy temprana de la historia.
+Por eso todos los segundos martes de Octubre se recuerda su azaña.
+[Ada Lovelace en Wikipedia](https://es.wikipedia.org/wiki/Ada_Lovelace)
+
+![Foto de Ada Lovelace](capturas/Ada_lovelace.png){: width="300"}
+* Imagen: Alfred Edward Chalon, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ada_lovelace.png)*
+
+---
